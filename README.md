@@ -9,6 +9,7 @@ A simple weather app that allows users to check the weather for a specific city.
 - [Usage](#usage)
 - [Images](#images)
 - [Contributing](#contributing)
+- [Note](#Note)
 
 ## Introduction
 
@@ -32,12 +33,12 @@ Then :
 1: Open the project in your preferred code editor.
 2: Run the index.html file in a web browser.
 
-* Usage:-
+## Usage:-
 1: Open the app in a web browser.
 2: Enter the name of the city you want to check the weather for in the search input.
 3: Click the search button to retrieve and display the weather information.
 
-* Images
+## Images
 This project uses the following images:
 
 - search.png: Search icon.
@@ -47,7 +48,7 @@ This project uses the following images:
 
 These images are located in the images directory. Feel free to use or replace them as needed for your project.
 
-* Contributing
+## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
 
 1: Fork the project.
@@ -63,7 +64,7 @@ If you'd like to contribute to this project, please follow these guidelines:
 
 5: Open a pull request.
 
-Note: 
+## Note: 
 Replace "your-username" and "your-repository" with your actual GitHub username and repository name. Additionally, make sure to update the image file names and paths if they differ in your actual project structure.
 thank you :)
 
