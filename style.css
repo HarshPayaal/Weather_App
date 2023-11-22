@@ -4,14 +4,17 @@
     font-family: 'Poppins',sans-serif;
     box-sizing: border-box;
 }
-body{
-    
-    background: #555;
+body {
+    background: url('background/clear.jpg') no-repeat center center fixed;
+    background-size: cover;
 }
+
 .card{
-    width: 90;
+    width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg,#06beb6,#48b1bf);
+    background: rgba(255,255,255,.1);
+    backdrop-filter: blur(30px);
+    border: 2px solid rgba(255,255,255,.2);
     color: #fff;
     margin: 100px auto 0;
     border-radius: 20px;
