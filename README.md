@@ -47,6 +47,7 @@ This project uses the following images:
 - wind.png: Wind speed icon.
 
 These images are located in the images directory. Feel free to use or replace them as needed for your project.
+There also additional images i add in repo check that out also.
 
 ## Contributing
 If you'd like to contribute to this project, please follow these guidelines:
